@@ -1,6 +1,6 @@
- Sweater Weather Requirements.
+## *Sweater Weather Requirements.*
 
-## Requisitos Funcionais (RF)
+**Requisitos Funcionais (RF)**
 
  **RF01 – Integração com API de Previsão do Tempo**  
   O sistema deve consultar uma API de clima em tempo real para obter dados atualizados sobre as condições meteorológicas (temperatura, sensação térmica, umidade, velocidade do vento, etc.).  
@@ -48,7 +48,7 @@
   A tela principal deve mostrar a previsão do tempo atual e as sugestões de looks para o dia de forma clara e visualmente atraente.  
   ➝ A sugestão de roupas deve vir acompanhada de uma breve explicação sobre como se adapta às condições climáticas.  
 
-## Requisitos Não Funcionais (RNF)
+**Requisitos Não Funcionais (RNF)**
 
  **RNF01 – Desempenho**  
   O tempo de resposta da aplicação deve ser inferior a 2 segundos nas consultas à API de clima.  
