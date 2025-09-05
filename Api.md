@@ -1,7 +1,7 @@
 
 # Levantamento de APIs para o Sistema de Sugestão de Looks com Base no Clima
 
-## 1. API de Previsão do Tempo
+##  API de Previsão do Tempo 
 
 ### OpenWeatherMap
 - **URL:** [https://openweathermap.org/api](https://openweathermap.org/api)
