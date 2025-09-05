@@ -10,25 +10,6 @@
 - **Formato de retorno:** JSON.
 - **Vantagem:** Suporte global, fácil integração, boa documentação.
 
-### WeatherAPI
-- **URL:** [https://www.weatherapi.com/](https://www.weatherapi.com/)
-- **Dados fornecidos:** Clima atual, previsão para até 10 dias, qualidade do ar.
-- **Plano gratuito:** 1 milhão de requisições/mês.
-- **Formato:** JSON ou XML.
-- **Vantagem:** Informações detalhadas e confiáveis, inclui ícones prontos.
-
-### AccuWeather API
-- **URL:** [https://developer.accuweather.com/](https://developer.accuweather.com/)
-- **Dados fornecidos:** Clima atual, previsão horária e diária.
-- **Plano gratuito:** 50 requisições/dia.
-- **Ideal para:** Previsões mais precisas, porém uso gratuito limitado.
-
-### Tomorrow.io (antiga Climacell)
-- **URL:** [https://www.tomorrow.io/](https://www.tomorrow.io/)
-- **Dados fornecidos:** Previsões hiperlocais, poluição, alertas climáticos.
-- **Plano gratuito:** 500 requisições/dia.
-- **Ideal para:** Aplicações que exigem dados detalhados.
-
 ---
 
 ## 2. API de Geolocalização (opcional)
