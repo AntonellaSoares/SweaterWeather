@@ -31,5 +31,5 @@ Para identificar a localização do usuário automaticamente:
 
 ## Estratégia de Integração
 - **OpenWeatherMap** para dados climáticos.
-- **HTML5 Geolocation API** para localização automática do usuário.
-- **Unsplash API** para imagens ilustrativas das sugestões de looks.
+- **HTML5 Geolocation API ou IP Geolocation API** para localização automática do usuário.
+- **Pexels API** para imagens ilustrativas das sugestões de looks.
