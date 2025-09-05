@@ -3,6 +3,7 @@
 
 
 ## 1. API de Previsão do Tempo 
+Para identificar o tempo e mais:
 ### OpenWeatherMap
 - **URL:** [https://openweathermap.org/api](https://openweathermap.org/api)
 - **Dados fornecidos:** Temperatura, sensação térmica, umidade, vento, previsão para horas/dias.
@@ -10,7 +11,7 @@
 - **Formato de retorno:** JSON.
 - **Vantagem:** Suporte global, fácil integração, boa documentação.
 
-## 2. API de Geolocalização (opcional)
+## 2. API de Geolocalização
 Para identificar a localização do usuário automaticamente:
 
 ### IP Geolocation API
@@ -22,8 +23,8 @@ Para identificar a localização do usuário automaticamente:
 - **Função:** Permite obter a localização exata (com permissão do usuário).
 - **Custo:** Gratuita, nativa em navegadores.
 
-## 3. API de Imagens (para ilustrar looks)
-
+## 3. API de Imagens 
+Para mostrar exemplos de looks ao usuário:
 ### Pexels API
 - **URL:** [https://www.pexels.com/api/](https://www.pexels.com/api/)
 - **Função:** Imagens gratuitas e livres de direitos autorais.
