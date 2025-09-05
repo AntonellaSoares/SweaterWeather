@@ -1,22 +1,4 @@
-Conversa aberta. 1 mensagem não lida.
 
-Pular para o conteúdo
-Como usar o Gmail com leitores de tela
-apis 
-Ativar as notificações na área de trabalho para o Gmail.
-   OK  Agora não(a)
-1 de 22
-apis
-
-LIVIA DA SILVA MATOS
-Anexos
-sex., 22 de ago., 14:05
-para mim
-
-
-1 anexo
-  •  Anexos verificados pelo Gmail
-liviadasilvamatos254@gmail.com. Pressione a tecla Tab para inserir.
 # Levantamento de APIs para o Sistema de Sugestão de Looks com Base no Clima
 
 ## 1. API de Previsão do Tempo
